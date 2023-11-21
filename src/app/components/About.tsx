@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className="min-h-screen overflow-hidden flex items-center justify-center">
+    <div className="sm:min-h-screen h-[700px] overflow-hidden flex items-center justify-center">
       <div className="max-w-screen-lg p-8">
         {/* <Image
           className="rounded-full"

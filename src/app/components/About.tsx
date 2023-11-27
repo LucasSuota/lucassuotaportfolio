@@ -16,10 +16,7 @@ const About = () => {
         <p className="sm:text-xl text-xs text-[#313131] mt-2">
           Desde pequeno sempre gostei de computadores, jogar jogos, desenhar,
           brincar no paint e tudo mais. Conforme fui crescendo percebi que além
-          de jogar, computadores servem pra outra coisa também: Programar. E aí
-          eu peguei gosto pela coisa, olha, não foi tão rápido, se eu contar nos
-          dedos eu desisti umas três, quatro vezes. Não por ser difícil, mas eu
-          estava em dúvida se realmente era o que eu queria.
+          de jogar, computadores servem pra outra coisa também: Programar.
         </p>
 
         <p className="sm:text-xl text-xs text-[#313131] mt-2">

@@ -3,7 +3,7 @@ import Image from "next/image";
 const Hero = () => {
   return (
     <>
-      <div className="sm:min-h-screen h-[700px] sm:flex-row flex-col flex items-center justify-center sm:gap-14 gap-4">
+      <div className="sm:min-h-screen min-h-[650px] sm:flex-row flex-col flex items-center justify-center sm:gap-14 gap-4">
         <div className="sm:w-[280px] sm:h-[280px] w-[220px] h-[220px] relative">
           <Image
             className="rounded-full"

@@ -7,7 +7,7 @@ import Link from "next/link";
 
 const Projects = () => {
   return (
-    <div className="mx-auto sm:min-h-screen h-[700px] flex items-center justify-center">
+    <div className="mx-auto min-h-screen flex items-center justify-center">
       <div className="sm:min-w-3/5 w-4/5 ">
         <div className="flex flex-col justify-center items-center gap-4">
           <Menu as={"div"} className={"flex items-center flex-col"}>
